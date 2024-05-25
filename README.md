@@ -6,7 +6,7 @@ This project focuses on the detection and classification of persuasive memes. Th
 
 # Tasks Overview
 
-#Task 1: Persuasive vs Non-Persuasive Meme Classification
+# Task 1: Persuasive vs Non-Persuasive Meme Classification
 In this task, the goal is to classify whether a given meme is persuasive or non-persuasive. This binary classification helps to filter out non-persuasive memes from further analysis.
 
 # Task 2: Intensity of Persuasion Detection
