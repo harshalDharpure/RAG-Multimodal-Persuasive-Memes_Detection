@@ -7,10 +7,10 @@ This project focuses on the detection and classification of persuasive memes. Th
 # Tasks Overview
 
 # Task 1: Persuasive vs Non-Persuasive Meme Classification
-In this task, the goal is to classify whether a given meme is persuasive or non-persuasive. This binary classification helps to filter out non-persuasive memes from further analysis.
+The first task involves utilizing dataset variables such as text, image, and processed text data (Rag) to classify memes as either persuasive or non-persuasive. This binary classification step helps filter out non-persuasive memes (label: 0) from those containing persuasive content (label: 1).
 
 # Task 2: Intensity of Persuasion Detection
-If a meme is classified as persuasive in Task 1, the next step is to determine the intensity of persuasion. The intensity is categorized on a scale from 0 to 5:
+Upon identifying a meme as persuasive (label: 1) in Task 1, the next step is to determine the intensity of persuasion using dataset variables like persuasive_inten. This variable categorizes the intensity into six levels (0 to 5), representing the degree of persuasion from None to Slightly Positively persuasive
 
 0: None <br>
 1: Negatively persuasive <br>
@@ -20,14 +20,14 @@ If a meme is classified as persuasive in Task 1, the next step is to determine t
 5: Slightly Positively persuasive <br>
 
 # Task 3: Type of Persuasion Detection
-For memes identified as persuasive, this task involves detecting the type of persuasive technique used. The possible categories include:
+For persuasive memes (label: 1) categorized by intensity in Task 2, Task 3 involves detecting the specific type of persuasive technique used. Dataset variables such as None, Negatively persuasive, Slightly Negatively persuasive, Neutral, Positively persuasive, and Slightly Positively persuasive represent different types of persuasive techniques employed in memes. The task uses these variables to identify and categorize the type of persuasion technique used in each persuasive meme.
 
-Personification <br>
-Irony <br>
-Alliteration <br>
-Analogies <br>
-Invective <br>
-Metaphor <br>
-Puns and Wordplays <br>
-Satire <br>
-Hyperboles <br>
+1. Personification <br>
+2. Irony <br>
+3. Alliteration <br>
+4. Analogies <br>
+5. Invective <br>
+6. Metaphor <br>
+7. Puns and Wordplays <br>
+8. Satire <br>
+9. Hyperboles <br>
