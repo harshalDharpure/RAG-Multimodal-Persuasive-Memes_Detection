@@ -1,4 +1,4 @@
-# 🎯 RAG-Enhanced Hierarchical Multimodal Fusion for Persuasive Meme Detection
+# 🎯 MemeRAG: Enhancing Persuasive Meme Detection via Multimodal Fusion and Knowledge Retrieval
 
 [![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)](https://www.python.org/downloads/)
 [![PyTorch](https://img.shields.io/badge/PyTorch-2.0+-red.svg)](https://pytorch.org/)
