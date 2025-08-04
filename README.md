@@ -350,26 +350,5 @@ This project is licensed under the Apache License 2.0 - see the [LICENSE](LICENS
 - **Framework**: PyTorch Lightning for the training framework
 - **Compute**: NVIDIA for GPU support
 
-## 📞 **Contact**
-
-- **Author**: [Your Name]
-- **Email**: your.email@institution.edu
-- **Institution**: [Your Institution]
-- **GitHub**: [@yourusername](https://github.com/yourusername)
-
-## 🔗 **Related Links**
-
-- [Paper (arXiv)](https://arxiv.org/abs/XXXX.XXXXX)
-- [Dataset](https://huggingface.co/datasets/your-dataset)
-- [Demo](https://huggingface.co/spaces/your-demo)
-- [Slides](https://slides.com/your-presentation)
 
 ---
-
-<div align="center">
-
-**⭐ Star this repository if you find it useful!**
-
-**📊 [View Demo](https://huggingface.co/spaces/your-demo) | 📄 [Read Paper](https://arxiv.org/abs/XXXX.XXXXX) | 🐛 [Report Issues](https://github.com/yourusername/RAG-Multimodal-Persuasive-Memes-Detection/issues)**
-
-</div>
