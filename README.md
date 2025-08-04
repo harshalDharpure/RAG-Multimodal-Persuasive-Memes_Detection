@@ -339,16 +339,4 @@ If you use this code in your research, please cite our paper:
 }
 ```
 
-## 📄 **License**
-
-This project is licensed under the Apache License 2.0 - see the [LICENSE](LICENSE) file for details.
-
-## 🙏 **Acknowledgments**
-
-- **Dataset**: Special thanks to the annotators who contributed to the dataset creation
-- **Models**: CLIP and Multilingual CLIP teams for pre-trained models
-- **Framework**: PyTorch Lightning for the training framework
-- **Compute**: NVIDIA for GPU support
-
-
 ---
